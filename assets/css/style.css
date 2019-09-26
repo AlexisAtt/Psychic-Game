@@ -1,0 +1,22 @@
+
+#directions-text {
+    color: red; 
+}
+
+#wins-text {
+
+    color: pink;
+
+}
+#losses-text {
+    color: red;
+}
+#guessesLeft {
+    color: pink;
+    
+}
+
+
+#guessesSoFar {
+    color: red;
+}
